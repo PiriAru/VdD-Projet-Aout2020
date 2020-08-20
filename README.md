@@ -22,6 +22,3 @@ __Visualisation:__
 Le graphique que j'ai choisi est un graphique dynamique type line chart. L'ajout de la liste déroulante permet de choisir le pays que l'on souhaite afin de ne pas surcharger le graphique. 
 
 
-<p align="center">
-  <img src="/Users/user/Desktop/Capture d’écran 2020-08-20 à 16.05.34.png" width="350" title="hover text">
-</p>
