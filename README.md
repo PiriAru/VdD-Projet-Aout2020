@@ -1,4 +1,4 @@
-# VdD-Projet-Alyssa_Fleck
+# Projet Alyssa Fleck
 
 Évolution de la population en Europe entre 1960 et 2017
 
