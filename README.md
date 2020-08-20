@@ -22,3 +22,10 @@ __Visualisation:__
 Le graphique que j'ai choisi est un graphique dynamique type line chart. L'ajout de la liste déroulante permet de choisir le pays que l'on souhaite afin de ne pas surcharger le graphique. 
 
 
+__Image d'aperçu du projet__
+![Image aperçu](https://github.com/afleck11/VdD-Projet-Alyssa_Fleck/blob/master/Capture%20d%E2%80%99e%CC%81cran%202020-08-20%20a%CC%80%2016.05.34.png)
+
+__Lien pour la visualisation__
+http://127.0.0.1:5502/index.html
+
+
